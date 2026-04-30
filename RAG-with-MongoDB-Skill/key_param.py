@@ -1,3 +1,4 @@
-LLM_API_KEY="your_openai_api_key_here"
-VOYAGE_API_KEY="your_voyage_api_key_here"
-MONGODB_URI="your_mongodb_connection_string_here"
+LLM_API_KEY="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"
+VOYAGE_API_KEY="al-ozzmPivtU4RJf_v5phra7FwdHvcdwbp1-XcprYwNyey"
+MONGODB_URI=""
+mongodb+srv://michaelmcdonald_db_user:8qOpQz1JE43KhHYU@michael-cluster-dev.bduioh4.mongodb.net/
